@@ -1,4 +1,4 @@
-# hotel-booking
+# Airbnb-Clone
 
 This page is built with html, css, javascript
 Frameworks used are express, ejs, mongoose, ejs-mate, method-override, joi, passport, passport-local, passport-mongoose, connect-flash, express-session and many more.
